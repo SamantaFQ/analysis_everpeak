@@ -13,12 +13,7 @@ El dataset `everpeak_retail` incluye 2,000 órdenes de clientes con valores falt
 
 Haz clic en el siguiente botón:
 
-[![Open In Colab](https://colab.research.google.com/drive/1-7NXiOhyBGIYLNVeZcT27dM1vnaelOSk?usp=sharing)
-
-O:
-
-1. Abre el archivo `.ipynb` en GitHub
-2. Haz clic en **Open in Colab**
+[![Open In Colab](https://colab.research.google.com/drive/1-7NXiOhyBGIYLNVeZcT27dM1vnaelOSk?usp=sharing)]
 
 ## 📘 Cómo reproducir el análisis
 
